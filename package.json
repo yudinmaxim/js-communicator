@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "JavaScript Communicator for create functionality application for communication from serialport",
   "productName": "JS Communicator",
-  "author": "artech53 <axi01.maxinc@ya.ru>",
+  "author": "ArTech Ltd <axi01.maxinc@ya.ru>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.ts,.vue ./",
